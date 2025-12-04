@@ -1,8 +1,7 @@
 # SecureChat – Assignment #2 (CS-3002 Information Security, Fall 2025)
 
-**Student:** Abdul RehmanKhan  
-**Roll Number:** 22i-0946  
-**GitHub:** [https://github.com/zohaibkhan946](https://github.com/zohaibkhan946)
+**Student:** Abdul Rehman
+**Roll Number:** 22i-0785
 
 This repository implements a **console-based, PKI-enabled Secure Chat System** in **Python**, demonstrating how cryptographic primitives combine to achieve:
 
